@@ -1,0 +1,21 @@
+## Ignore Visual Studio temporary files, build results, etc.
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.psess
+*.vsp
+*.vspx
+*.pidb
+*.log
+*.tlog
+*.cache
+*.ilk
+*.pdb
+.vs/
+bin/
+obj/
+packages/
+
+## Designer files (auto-generated)
+*.Designer.cs
